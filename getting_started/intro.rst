@@ -19,7 +19,7 @@ You might want to plan on saving an entire day to work on this project if you go
 
 
 
-The building of the car hardware itself was recorded and be watched here:
+The building of the car hardware itself was recorded and be watched as follows:
 .. raw:: html
 
 	<iframe width="560" height="315" src="https://www.youtube.com/embed/iyOtTtlHcvw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
